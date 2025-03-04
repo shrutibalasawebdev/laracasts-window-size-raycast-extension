@@ -20,7 +20,7 @@ tell application "System Events"
 end tell
 
 set screenWidth to 1280
-set screenHeight to 720
+set screenHeight to 800
 
 set gutter to 20
 set bottomGutter to 45
